@@ -11,4 +11,4 @@
 
 ## 发布
 
-提交至 `main` 后，GitHub Actions 将自动发布到 GitHub Pages。
+GitHub Pages 通过 GitHub Actions 自动发布，站点更新会在推送至 `main` 后触发。
